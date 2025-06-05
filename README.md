@@ -25,6 +25,8 @@ describes the design and implementation of the operator in more detail.
 
 ## Local Development
 
+//Ali
+
 ### Build the operand image
 
 **Note**: only needed for unmerged changes, all merged changes get published in a public quay.io repository
