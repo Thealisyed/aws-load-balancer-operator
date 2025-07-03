@@ -45,6 +45,7 @@ import (
 )
 
 const (
+	//demo to trigger pipeline
 	// the name of the AWSLoadBalancerController resource which will be reconciled
 	controllerName = "cluster"
 	// clusterInfrastructureName is the name of the 'cluster' infrastructure object.
